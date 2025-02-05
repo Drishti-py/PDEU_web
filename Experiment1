@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDPU</title>
+
+
+</head>
+
+<body>
+    <section style="background-color: #A51C30;">
+        <header>
+            <br>
+            <pre style="color: white;"> <img src="https://pdeu.ac.in/pdeu_new_logo.png" alt="PDEU logo" height="100">    <u></u>    <u>Admission</u>    <u>Academics</u>    <u>Research</u>    <u>Placements</u>    <u>student acitivity</u>    <u>Events and News</u>    <img src="https://img.icons8.com/ios_filled/512/FFFFFF/search.png"
+                alt="search" height="20"> <button style="background-color: antiquewhite; color: #A51C30; border-color: aliceblue;"> Apply now</button>
+            </pre>
+
+            <br>
+        </header>
+    </section>
+    <br>
+    <center>
+        <img src="https://api.pdeu.ac.in/pdpu/images/65fbe47cee963.png" alt="pic">
+    </center>
+
+    <br>
+    <hr style="color: #A51C30;">
+    <br>
+    <center>
+        <b>
+            <h1 style="color: black ;">ABOUT THE UNIVERSTY</h1>
+        </b>
+    </center>
+    <section style="background-color: bisque;">
+        <br>
+        <p style="font-size: x-large;"> PDEU was established as a Petroleum University in 2007 with a focus on fossil
+            fuels
+            and later emerged as
+            India's only energy university in the year 2021, dedicated to energy education and research. Today, the
+            university has marked its presence as a renowned institution with noteworthy national and international
+            visibility. PDEU is aggresively contributing towards Nation's AatmaNirbharBharat Abhiyan.
+        </p>
+        <br>
+    </section>
+    <br>
+    <hr style="color: #A51C30;">
+    <br>
+    <center>
+        <h1 style="font-size: x-large;">CONSTITUENT SCHOOL</h1>
+    </center>
+    <section>
+        <center>
+            <pre><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo5qyj60uQEgVS8gqKo8RWyx58yx5zasbM7w&s" alt="sot">    <img src="https://api.pdeu.ac.in/pdpu/images/6107af987f0e1.jpeg" alt="soet" height="225">    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPnTVyH4TT2z5gD5HRCJzVPsXhMN1zA6niDQ&s" alt="sls">    <img src="https://pbs.twimg.com/profile_images/1671191213482065923/V6irKzCL_400x400.jpg" alt="som" height="225"></pre>
+            <br>
+            <h2 style="font-size: xx-large;"> All the courses offer by different schools:</h2>
+            <hr>
+        </center>
+        <p style="font-size: x-large;color:#A51C30;"><br> <b>1. SCHOOL OF TECHNOLOGY(SOT)/ SCHOOL OF ENERGY
+                TECHNOLOGY(SoET)</b></p>
+        <section style="background-color: bisque;">
+            <h1 style="font-size: x-large;background-color: #A51C30;color: azure;">Bachelor of Technology (B.Tech.)
+            </h1>
+
+            <ul style="font-size: x-large;">
+
+                <li>B.Tech. in Petroleum Engineering</li> <img src="https://www.pdpu.ac.in/infra/6.jpg" alt="lab"
+                    style="float: right;">
+                <li>B.Tech. in Chemical Engineering</li>
+                <li>B.Tech. in Computer Engineering</li>
+                <li>B.Tech. in Civil Engineering</li>
+                <li>B.Tech. in Mechanical Engineering</li>
+                <li>B.Tech. in Electrical Engineering</li>
+                <li>B.Tech. in Electronics & Communication Engineering</li>
+                <li>B.Tech. in Information & Communication Technology</li>
+
+            </ul>
+
+            <h1 style="font-size: x-large;background-color: #A51C30;color: azure;">Master of Technology (M.Tech.)
+            </h1>
+            <ul style="font-size: x-large;">
+                <li>M.Tech. in Thermal Engineering</li>
+                <li>M.Tech. in Design Engineering</li>
+                <li>M.Tech. in Manufacturing Engineering</li>
+                <li>M.Tech. in Infrastructure Engineering & Management</li>
+                <li>M.Tech. in Transportation Engineering</li>
+                <li>M.Tech. in Environmental Engineering</li>
+                <li>M.Tech. in Data Science</li>
+                <li>M.Tech. in Cyber Security</li>
+                <li>M.Tech. in Energy Systems (Focused on Solar Energy)</li>
+                <li>M.Tech. in Nuclear Science and Technology</li>
+                <li>M.Tech. in Power Systems</li>
+            </ul>
+        </section>
+        <p style="font-size: x-large; color: #A51C30;"><br> <b>2. SCHOOL OF LIBERAL STUDIES </b></p>
+        <section style="background-color: bisque;">
+            <h1 style="font-size: x-large; background-color: #A51C30; color: aliceblue;">Undergraduate program
+            </h1>
+            <h1 style="font-size: x-large;">B.A. (Hons.)</h1><img src="https://sls.pdpu.ac.in/infra/5.jpg" alt="lab"
+                style="float: right;">
+
+            <ul style="font-size: x-large;">
+
+
+                <li>English</li>
+                <li>Digital Humanities</li>
+                <li>Mass Communication</li>
+                <li>Governance & Public Administration</li>
+                <li>International Relations</li>
+                <li>Psychology</li>
+                <li>Economics</li>
+                <li>Indic Studies</li>
+
+            </ul>
+
+            <h1 style="font-size: x-large;background-color: #A51C30;color: azure;">Postgraduate program
+            </h1>
+            <h1 style="font-size: x-large;">M.A.</h1>
+            <ul style="font-size: x-large;">
+                <li>M.A. in English</li>
+                <li>M.A. in Psychology</li>
+                <li>M.A. in Economics</li>
+                <li>M.A. in Politics and International Relations</li>
+                <li>M.A. in Public Administration</li>
+                <li>M.Sc. in Finance</li>
+            </ul>
+            <br>
+
+        </section>
+        <br>
+        <center><button style="font-size: xx-large;background-color: #A51C30;color: azure;"> Know more</button>
+            <hr>
+            <h1 style="font-size: xx-large;background-color:#A51C30;color:bisque;">Placements</h1>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWGOLtL8SdnyIRM4fRIOpgPKm-cy9Qcxa43Q&s"
+                alt="google"> <img src="https://assets.upstox.com/content/assets/images/cms/202451/Amazon%20logo.png"
+                alt="amazon" height="100"> <img
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZDAHKinA81JA2j6lp8r0cQnrXxz3AXHN0FQ&s"
+                alt="micron"> <img
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6dpKTMEVZhXjH2c55I__dwDSss-_1eQum0Q&s"
+                alt="adani" height="50"><br>
+            <pre><img src="https://logos-world.net/wp-content/uploads/2023/03/Reliance-Industries-Ltd.-Logo.png"
+                alt="reliance" height="100">        <img
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzJzihKwcddqOeRGUkfxaoI0PBV3csJNYntA&s"
+                alt="ONGC" height="100"></pre><br>
+            <button style="font-size: x-large;background-color: #A51C30;color: azure;">Know more about
+                Placements</button>
+        </center>
+        <br>
+        <br>
+        <br>
+        <br>
+        <section style="background-color: #A51C30;">
+            <header>
+                <br>
+                <pre style="color: white;"> <img src="https://pdeu.ac.in/pdeu_new_logo.png" alt="PDEU logo" height="100">                                                            <u>Contact</u>   <u>student acitivity</u>    <u>Events and News</u>
+            </pre>
+
+                <br>
+            </header>
+        </section>
+
+
+</body>
+
+</html>
